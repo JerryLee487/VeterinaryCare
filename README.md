@@ -1,4 +1,5 @@
 VeterinaryCare - Diagrama de Casos de Uso (UML)
+
 Descripción:
 El sistema VeterinaryCare está diseñado para gestionar de forma integral las operaciones diarias de una clínica veterinaria.
 Permite agendar citas, llevar historiales médicos de mascotas, gestionar inventario de medicamentos, procesar pagos y administrar personal.
