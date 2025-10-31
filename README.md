@@ -14,31 +14,36 @@ Proveedor de Medicamentos: suministra insumos médicos y recibe órdenes de comp
 Sistema de Facturación: genera facturas y registra transacciones económicas.
 
 ⚙️ Módulos del sistema
+
 Citas y Atención
-Registro de nuevas citas.
-Asignación de veterinario y sala de consulta.
-Confirmación y cancelación de citas.
-Historial de visitas por mascota.
+-Registro de nuevas citas.
+-Asignación de veterinario y sala de consulta.
+-Confirmación y cancelación de citas.
+-Historial de visitas por mascota.
+
 Historial Clínico
-Registro de diagnósticos y síntomas.
-Prescripción de medicamentos y tratamientos.
-Registro de vacunas y cirugías.
-Generación de informes médicos.
+-Registro de diagnósticos y síntomas.
+-Prescripción de medicamentos y tratamientos.
+-Registro de vacunas y cirugías.
+-Generación de informes médicos.
+
 Inventario y Suministros
-Gestión de stock de medicamentos y materiales.
-Alertas por bajo inventario.
-Creación de órdenes de compra a proveedores.
-Registro de recepción de insumos.
+-Gestión de stock de medicamentos y materiales.
+-Alertas por bajo inventario.
+-Creación de órdenes de compra a proveedores.
+-Registro de recepción de insumos.
+
 Facturación y Pagos
-Generación de facturas por servicios y productos.
-Registro de pagos (efectivo, tarjeta, transferencia).
-Historial de transacciones por cliente.
-Reportes de ingresos mensuales.
+-Generación de facturas por servicios y productos.
+-Registro de pagos (efectivo, tarjeta, transferencia).
+-Historial de transacciones por cliente.
+-Reportes de ingresos mensuales.
+
 Administración
-Gestión de usuarios y roles (veterinarios, recepcionistas, etc.).
-Configuración de tarifas de servicios.
-Copias de seguridad y auditoría del sistema.
-Generación de reportes operativos y financieros.
+-Gestión de usuarios y roles (veterinarios, recepcionistas, etc.).
+-Configuración de tarifas de servicios.
+-Copias de seguridad y auditoría del sistema.
+-Generación de reportes operativos y financieros.
 
 🧩 Casos de uso principales
 Módulo de Citas y Atención
